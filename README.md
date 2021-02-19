@@ -1,3 +1,3 @@
 # Simple_Terraform_Modules
 
-Module with the combination of AWS instance resorce and AWS subnet resource
+Module with the combination of AWS instance and AWS subnet resource
